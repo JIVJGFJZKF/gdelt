@@ -1,2 +1,2 @@
-# gdelt
+# GDELT
 Create insights from GDELT mentions
